@@ -13,3 +13,7 @@ common nevi, 80 atypical nevi, and 40 melanomas. The PH² database includes medi
 all the images namely medical segmentation of the lesion, clinical and histological diagnosis and the
 assessment of several dermoscopic criteria (colors; pigment network; dots/globules; streaks; regression
 areas; blue-whitish veil).
+
+The dataset can be downloaded from the Google Drive link:
+
+https://drive.google.com/drive/folders/1fdwE1MDp7e7MKgtE71c4gQlPlg8fB6ck?usp=sharing
